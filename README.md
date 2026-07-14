@@ -118,16 +118,4 @@ python main.py
 - Cloud Save
 - Mobile Version
 
----
 
-## 👨‍💻 Author
-
-**Divya Dharshini**
-
-GitHub: https://github.com/YOUR_USERNAME
-
----
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub!
